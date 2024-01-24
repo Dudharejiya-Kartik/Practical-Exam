@@ -82,3 +82,14 @@ to the appropriate sources, if applicable.
 <br><br>
 
 ## Images:
+![WhatsApp Image 2024-01-24 at 8 23 00 AM](https://github.com/Dudharejiya-Kartik/Practical-Exam/assets/137186473/523e351a-5388-4026-9866-eafcdba2412b)
+![WhatsApp Image 2024-01-24 at 8 23 01 AM](https://github.com/Dudharejiya-Kartik/Practical-Exam/assets/137186473/dc9bada8-aba4-4ae9-acc5-df5a2f296ead)
+![WhatsApp Image 2024-01-24 at 8 23 01 AM (1)](https://github.com/Dudharejiya-Kartik/Practical-Exam/assets/137186473/cc68a3d7-7b09-45cb-9674-ccc5dfac21e6)
+![WhatsApp Image 2024-01-24 at 8 23 01 AM (2)](https://github.com/Dudharejiya-Kartik/Practical-Exam/assets/137186473/83b5ab1f-3eed-4247-946c-3cd7aef161bb)
+
+<br><br>
+
+## Video: 
+
+https://github.com/Dudharejiya-Kartik/Practical-Exam/assets/137186473/a442ee44-d2c9-4e30-9e54-5be9f0c601f2
+
