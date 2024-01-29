@@ -130,7 +130,9 @@ class _HomePageState extends State<HomePage> {
                                 Container(
                                   height: h * 0.04,
                                   decoration: BoxDecoration(
-                                      color: Colors.grey,
+                                    color: (category == e)
+                                          ? Color(0xff2e3759)
+                                          : Color(0xfff2f2f2),
                                       borderRadius: BorderRadius.circular(20)),
                                   alignment: Alignment.center,
                                   child: Text(
